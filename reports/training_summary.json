@@ -1,0 +1,10 @@
+{
+  "n_rows": 68654,
+  "target_rate": 0.0183237684621435,
+  "oof_f1": 0.8962962962962963,
+  "threshold": 0.7157929754248441,
+  "postprocessing_method": "max",
+  "smote_strategy": 0.45,
+  "n_splits": 4,
+  "random_state": 42
+}

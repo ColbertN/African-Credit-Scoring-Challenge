@@ -1,0 +1,92 @@
+feature,mean_importance
+repayment_ratio,0.11272810793801091
+"Inflation, consumer prices (annual %)",0.06678248374374511
+lender_repayment_ratio,0.05357299064197052
+repay_spread_pct,0.0483595967549452
+tbl_loan_id,0.038168452761384135
+macro_year,0.036641596241931494
+lender_portion_gap_pct,0.03520375202420934
+disbursement_dayofweek,0.0330684439380601
+disbursement_year,0.02890866941464026
+repay_minus_amount,0.02580180947926428
+disbursement_day,0.02521863506883155
+due_day,0.02402930052089652
+due_dayofweek,0.022210643204272393
+customer_seen_loans,0.01998351499643284
+due_month,0.019349805251361502
+customer_repayment_ratio_mean,0.019152069939078364
+customer_id,0.01773929168070567
+due_year,0.017525957079217388
+country_type_repayment_ratio_mean,0.01652324775618627
+Deposit interest rate (%),0.01526012061637298
+lender_portion_gap,0.014395855000108274
+repay_to_customer_mean_ratio,0.013405113100941168
+duration,0.01085957668177071
+disbursement_month,0.010781708374001294
+amount_to_customer_mean_ratio,0.010699775231874977
+loan_type,0.010440877031331203
+Lender_portion_Funded,0.010124539075539488
+duration_bucket,0.010003237649390631
+due_quarter,0.00997104454604014
+customer_amount_std,0.009950397709186402
+lender_funded_ratio,0.009229964080995521
+amount_to_country_type_mean_ratio,0.008709211561513068
+batch_lender_funding_share,0.008689955389002815
+repay_vs_customer_mean,0.008539657884440393
+lender_repay_per_day,0.007827594813071253
+loan_term_days,0.007392946002620252
+amount_vs_customer_mean,0.006755260784891542
+batch_lender_repay_share,0.00665183618139964
+customer_repeat_rate,0.006478610208618997
+customer_seen_lenders,0.006343418363316385
+amount_duration_product,0.006068842428754048
+customer_amount_max,0.006010732604252159
+amount_per_day,0.005961362027703886
+country_type_repay_mean,0.005861474695264786
+amount_due_per_day,0.005241053982409277
+customer_seen_loan_types,0.0050457941986678965
+batch_loan_funded_sum,0.004740314091206551
+customer_repay_median,0.004559536725859878
+customer_amount_median,0.0044631196586316325
+log_amount_due_per_day,0.00445542820538367
+log_duration,0.004393081805946077
+amount_vs_lender_mean,0.004356008654042104
+country_type_seen_loans,0.004350135901407784
+Total_Amount,0.004333278221830803
+country_type_amount_mean,0.004306204646468884
+customer_amount_mean,0.004111727671295124
+disbursement_quarter,0.004057763093315924
+batch_loan_repay_sum,0.004045199476192804
+log_Total_Amount,0.0038297162640869766
+customer_repay_mean,0.003772486147729719
+Total_Amount_to_Repay,0.0037125332008315997
+log_Amount_Funded_By_Lender,0.003593336122058007
+Amount_Funded_By_Lender,0.003335239892745498
+customer_duration_mean,0.0032806705425556105
+country_type_duration_mean,0.0027479784192180525
+"Interest rate spread (lending rate minus deposit rate, %)",0.002682064452463743
+log_Lender_portion_to_be_repaid,0.002458264188583733
+macro_year_gap,0.002248287853122826
+Lender_portion_to_be_repaid,0.002153533070872974
+Unemployment rate,0.0019288565623543875
+New_versus_Repeat,0.001878177844136816
+is_repeat_loan,0.0018598834510669706
+Real interest rate (%),0.0016315568901830498
+log_Total_Amount_to_Repay,0.001629629858474091
+disbursement_is_month_end,0.0015796012949078637
+lender_seen_customers,0.0007488775041674034
+due_is_month_end,0.0007436233514031095
+"Official exchange rate (LCU per US$, period average)",0.0007063693062328785
+lender_funded_ratio_mean,0.0007010147561907855
+lender_seen_loans,0.0006675391360980359
+lender_id,0.0005616793772738744
+Lending interest rate (%),0.0005368984577501738
+lender_amount_mean,0.00037375131871719155
+batch_loan_row_count,0.0003694917960805065
+lender_repay_mean,0.00021919267929501469
+lender_duration_mean,0.00018304432893344072
+batch_loan_lender_count,2.6575122261426357e-05
+Average precipitation in depth (mm per year),0.0
+Fossil fuel energy consumption (% of total),0.0
+country_id,0.0
+duration_term_gap,0.0

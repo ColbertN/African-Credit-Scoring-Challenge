@@ -1,0 +1,2 @@
+rows,predicted_default_rate,mean_probability_default,p05_probability_default,p50_probability_default,p95_probability_default,mean_credit_score,p05_credit_score,p50_credit_score,p95_credit_score
+18594,0.036570936861353126,0.038851535782547096,3.0356765002969154e-06,2.9050798263226836e-05,0.03497170815231334,819.9148112294289,736.3000000000002,850.0,850.0
